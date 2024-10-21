@@ -2,5 +2,5 @@ pandas
 numpy
 prophet
 plotly
-yfinance
 nbformat
+yfinance
